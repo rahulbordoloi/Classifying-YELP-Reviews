@@ -9,4 +9,5 @@ Notebook used : Google Colab
 
 To Predict : if the customer is satisfied/happy with the services or not.
 
->> Install the dependencies from your terminal with "pip install -r requirements.txt"
+If you're working on a Local Machine,
+Install the dependencies from your terminal with >> "pip install -r requirements.txt"
