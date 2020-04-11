@@ -1,5 +1,5 @@
 # Classifying-YELP-Reviews-using-NLP
-A Basic Machine Learning Project using NLP
+A Basic Machine Learning Project using NLP                                             
 Notebook used : Google Colab
 
 1> In this project, Natural Language Processing (NLP) strategies will be used to analyze Yelp reviews data.
